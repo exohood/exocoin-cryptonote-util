@@ -1,1 +1,7 @@
-# exohood-node-cryptonote-util
+Node-Cryptonote-Util
+====================
+
+Dependencies
+------------
+
+* Boost (http://www.boost.org/)
