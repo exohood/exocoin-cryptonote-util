@@ -45,5 +45,3 @@ IF (NOT WIN32)
   target_link_libraries (demo_http_server rt)
   target_link_libraries (demo_levin_server rt)
 ENDIF()
-
-
