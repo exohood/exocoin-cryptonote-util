@@ -1,42 +1,126 @@
-# Cryptonote Utility Library for Node.js
 
-Welcome to Node-Cryptonote-Util, your go-to utility library for handling Cryptonote-based cryptocurrencies in Node.js. This comprehensive library provides essential tools and functionalities to interact with Cryptonote networks, enabling developers to build robust and secure applications within the Cryptonote ecosystem.
+# Node-Cryptonote-Util - Discontinued
 
-# About Cryptonote
+> ⚠️ **PROJECT PERMANENTLY DISCONTINUED - NO LONGER MAINTAINED**
+>
+> Exohood Labs. has permanently discontinued the Node-Cryptonote-Util development initiative.
+>
+> **This library is no longer actively developed, maintained, tested, or supported by Exohood Labs.**
+>
+> No further official releases, security updates, compatibility improvements, or development contributions are planned.
+>
+> This repository is retained exclusively for historical, educational, and archival purposes.
+>
+> **Project Status: Permanently Discontinued.**
 
-Cryptonote is a privacy-centric protocol that forms the foundation for various cryptocurrencies, ensuring secure and anonymous transactions. Developed with a focus on privacy, Cryptonote-based coins offer enhanced fungibility and robust protection against blockchain analysis.
+## Historical Project Overview
 
-# What is Node-Cryptonote-Util?
+Node-Cryptonote-Util was originally developed as a Node.js utility library for applications interacting with CryptoNote-based cryptocurrency technologies.
 
-Node-Cryptonote-Util is a powerful Node.js library designed to streamline interactions with Cryptonote-based networks. It empowers developers with essential functions for address generation, transaction construction, blockchain exploration, and more. Whether you're building a wallet, a mining tool, or a blockchain explorer, this library is your one-stop solution.
+The project explored cryptographic operations, blockchain data processing, transaction functionality, and software integration for privacy-focused cryptocurrency networks.
 
-# Key Features
+The original development objectives included:
 
-* Address Generation: Easily create Cryptonote-style addresses, including integrated and sub-addresses, for seamless transaction processing.
+- CryptoNote address generation and processing.
+- Cryptographic key operations.
+- Transaction construction and verification.
+- Blockchain data interaction.
+- Ring signature related functionality.
+- Integration with Node.js applications.
+- Compatibility research involving CryptoNote-based networks.
 
-* Transaction Construction: Construct complex Cryptonote transactions with support for multiple inputs and outputs, ring signatures, and mixins.
+These features reflect the historical scope of the project.
 
-* Blockchain Interaction: Access blockchain data and explore transaction histories, providing valuable insights for developers and users.
+They do not represent a guarantee that every function remains operational, secure, or compatible with current blockchain implementations.
 
-* Cryptographic Functions: Perform cryptographic operations, such as generating key pairs and verifying signatures, for enhanced security.
+## Development Status
 
-* Compatibility: Node-Cryptonote-Util is compatible with multiple Cryptonote-based cryptocurrencies, expanding its versatility for various projects.
+**Development has been permanently discontinued.**
 
-# Getting Started
+Exohood Labs no longer provides:
 
-To start using Node-Cryptonote-Util in your Node.js projects, simply install the package via npm:
+- New library releases.
+- Dependency updates.
+- Security patches.
+- Compatibility maintenance.
+- Bug fixes.
+- New cryptographic functionality.
+- Technical integration assistance.
+- Support for production deployments.
+- Review or acceptance of new contributions.
 
-* npm install node-cryptonote-util
+Previously published development instructions and contribution procedures are no longer applicable.
 
-# Contributing
+## Installation and Usage Warning
 
-We value contributions from the open-source community. If you identify bugs, have feature requests, or wish to improve existing code, feel free to create issues or submit pull requests on our GitHub repository. Your contributions will play a pivotal role in advancing the capabilities of Node-Cryptonote-Util.
+> ⚠️ **SECURITY WARNING - NOT RECOMMENDED FOR PRODUCTION**
+>
+> This repository contains historical cryptocurrency software that is no longer maintained.
+>
+> **Do not rely on this library to manage real cryptocurrency funds, generate production wallet credentials, sign financial transactions, or process sensitive cryptographic information without a comprehensive independent security assessment.**
 
-# Let's Unlock the Potential of Cryptonote Together
+Earlier project documentation referenced installation through npm:
 
-With Node-Cryptonote-Util, we invite you to explore the fascinating world of Cryptonote-based cryptocurrencies. Empower your Node.js applications with privacy and security, unleashing the full potential of Cryptonote technology. Together, let's build a more private, decentralized, and equitable future with Node-Cryptonote-Util at the helm.
+`npm install node-cryptonote-util`
 
-Dependencies
-------------
+This command is retained solely as a historical reference.
 
-* Boost (http://www.boost.org/)
+Exohood Labs does not guarantee that the package remains available, compatible with current Node.js versions, or safe for production use.
+
+## Historical Dependencies
+
+The original project documentation referenced Boost as a dependency.
+
+**Boost:** http://www.boost.org/
+
+Dependency versions, build requirements, and compatibility information may be outdated.
+
+No ongoing compatibility testing or dependency maintenance is provided.
+
+## Repository and Licensing Notice
+
+This repository remains publicly accessible for historical and educational reference.
+
+Previously published source code remains subject to its applicable license and copyright notices.
+
+The discontinuation of the project does not revoke rights previously granted under a valid software license.
+
+However, Exohood Labs does not undertake to maintain, update, or provide technical support for this code.
+
+All historical materials are provided **"AS IS"**, without warranties of functionality, security, accuracy, or fitness for a particular purpose, to the extent permitted by applicable law.
+
+## External Contributions
+
+The former public development program is closed.
+
+Exohood Labs no longer accepts pull requests, feature proposals, or external development contributions for this discontinued repository.
+
+Independent forks may remain available according to the applicable software license.
+
+Such forks are not automatically affiliated with, maintained by, or endorsed by Exohood Labs.
+
+## Relationship With Exohood Labs
+
+Node-Cryptonote-Util is a historical software project.
+
+It does not represent an active Exohood Labs product, supported cryptocurrency infrastructure, or a component guaranteed to be used in the company's current applications.
+
+The discontinuation of this repository does not affect other independently maintained Exohood Labs projects.
+
+## Final Notice
+
+**Node-Cryptonote-Util has been permanently discontinued.**
+
+The repository is preserved to document its original technical objectives and development history.
+
+No further official development, maintenance, security updates, or support are planned.
+
+---
+
+**Repository Status: PERMANENTLY DISCONTINUED**
+
+**Development and Maintenance: CLOSED**
+
+**Security Updates: UNAVAILABLE**
+
+**Repository Purpose: HISTORICAL ARCHIVE**
